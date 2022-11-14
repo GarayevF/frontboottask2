@@ -1,0 +1,65 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+a{
+    text-decoration: none;
+}
+
+.contentimg{
+    background-image: url(https://freshcart.codescandy.com/assets/images/slider/slider-2.jpg);
+    background-position: center;
+    background-size: cover;
+    padding: 10rem 0;
+    border-radius: 20px;
+}
+
+.imgdiv h5{
+    font-size: 13px;
+    border-radius: 20px;
+}
+
+.imgdiv h1{
+    font-size: 50px;
+    
+}
+
+.imgdiv h3{
+    font-size: 23px;
+    color: #5c6c75;
+}
+
+#second .text-start p{
+    font-size: 25px;
+    font-weight: bold;
+}
+
+#test1, #test2{
+    background-color: #f0f3f2;
+}
+
+#third .card:nth-child(1){
+    background-image: url(https://freshcart.codescandy.com/assets/images/banner/grocery-banner.png);
+    background-position: center;
+    background-size: cover;
+    padding: 1.5rem 0;
+    background-repeat: no-repeat;
+}
+
+#third .card:nth-child(2){
+    background-image: url(https://freshcart.codescandy.com/assets/images/banner/grocery-banner-2.jpg);
+    background-position: center;
+    background-size: cover;
+    padding: 1.5rem 0;
+    background-repeat: no-repeat;
+}
+
+#third .container{
+    margin-top: 80px;
+}
+
+
+
+
+
