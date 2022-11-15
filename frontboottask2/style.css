@@ -11,7 +11,7 @@ a{
     background-image: url(https://freshcart.codescandy.com/assets/images/slider/slider-2.jpg);
     background-position: center;
     background-size: cover;
-    padding: 10rem 0;
+    padding: 8rem 0;
     border-radius: 20px;
 }
 
@@ -39,7 +39,7 @@ a{
     background-color: #f0f3f2;
 }
 
-#third .card:nth-child(1){
+#third .col-lg-6:nth-child(1) .card{
     background-image: url(https://freshcart.codescandy.com/assets/images/banner/grocery-banner.png);
     background-position: center;
     background-size: cover;
@@ -47,7 +47,7 @@ a{
     background-repeat: no-repeat;
 }
 
-#third .card:nth-child(2){
+#third .col-lg-6:nth-child(2) .card{
     background-image: url(https://freshcart.codescandy.com/assets/images/banner/grocery-banner-2.jpg);
     background-position: center;
     background-size: cover;
@@ -59,6 +59,34 @@ a{
     margin-top: 80px;
 }
 
+#fourth .text-start p{
+    font-size: 25px;
+    font-weight: bold;
+}
+
+#fourth .card-body i{
+    color: orange
+}
+
+.fa-solid.fa-star, .fa-solid.fa-star-half-stroke, .fa-regular.fa-star{
+    font-size: 14px;
+}
+
+#fourth .card-body h3{
+    font-size: 12px;
+    color: #5c6c75;
+}
+
+#fourth .card-body h1{
+    font-size: 15px;
+}
+ 
+.pricediv button{
+    background-color: green;
+    color: white;
+    padding: 3px 1rem;
+    border-radius: 10px;
+}
 
 
 
