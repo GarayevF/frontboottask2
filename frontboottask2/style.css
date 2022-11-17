@@ -11,13 +11,18 @@ a{
     background-image: url(https://freshcart.codescandy.com/assets/images/slider/slider-2.jpg);
     background-position: center;
     background-size: cover;
-    padding: 8rem 0;
+    padding: 7rem 0;
     border-radius: 20px;
+}
+
+.imgdiv{
+    width: 450px;
 }
 
 .imgdiv h5{
     font-size: 13px;
     border-radius: 20px;
+    
 }
 
 .imgdiv h1{
@@ -80,12 +85,19 @@ a{
 #fourth .card-body h1{
     font-size: 15px;
 }
+
+.pricediv span{
+    font-size: 14px;
+}
  
 .pricediv button{
     background-color: green;
     color: white;
-    padding: 3px 1rem;
+    padding: 5px 0;
+    width: 60px;
+    
     border-radius: 10px;
+    font-size: 15px;
 }
 
 
